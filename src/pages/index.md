@@ -13,7 +13,15 @@ description: So much happens on any given day in the world of basketball and we
   are here to give you the highlights and relevant information you need to
   follow the game, not just your team.
 intro:
-  blurbs: []
+  blurbs:
+    - text: The best analysis to start the day and stay up to date! If you do any
+        amount of sports betting or enjoy the analytics side this is the site
+        for you.
+      image: /img/andre-hunter-rpkdvpcyauo-unsplash.jpg
+    - text: Most analysis is sensational or over the top (network sports shows). Daily
+        Dribble gets straight to the point while also being entertaining and
+        keeping me informed!
+      image: /img/tim-hart-mrymi1qsdqs-unsplash.jpg
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -29,11 +37,11 @@ main:
     optimal for the plants, farmers and the local environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/abhishek-chandra-kxjksx1kdj0-unsplash.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    image: /img/tj-dragotta-gl0jbjjtdws-unsplash.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/joshua-kantarges-n_7kb4hpaou-unsplash.jpg
 ---
