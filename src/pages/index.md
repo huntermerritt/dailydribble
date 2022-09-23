@@ -18,6 +18,10 @@ intro:
         amount of sports betting or enjoy the analytics side this is the site
         for you.
       image: /img/andre-hunter-rpkdvpcyauo-unsplash.jpg
+    - text: Most analysis is sensational or over the top (network sports shows). Daily
+        Dribble gets straight to the point while also being entertaining and
+        keeping me informed!
+      image: /img/tim-hart-mrymi1qsdqs-unsplash.jpg
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
